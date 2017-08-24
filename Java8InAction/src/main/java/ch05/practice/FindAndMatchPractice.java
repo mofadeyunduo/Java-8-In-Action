@@ -7,7 +7,7 @@ import java.util.List;
 
 public class FindAndMatchPractice {
 
-    public List<Dish> menu;
+    private List<Dish> menu;
 
     public FindAndMatchPractice(List<Dish> menu) {
         this.menu = menu;
